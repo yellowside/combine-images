@@ -1,0 +1,1 @@
+import"./modulepreload-polyfill-B5Qt9EMX.js";/* empty css                */document.addEventListener("DOMContentLoaded",()=>{const s=document.querySelectorAll(".fade-in-section"),o=new IntersectionObserver(e=>{e.forEach(t=>{t.isIntersecting&&t.target.classList.add("is-visible")})},{threshold:.1});s.forEach(e=>{o.observe(e)})});

@@ -3,82 +3,82 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
     <url>
-        <loc>https://img.ops-coffee.cn/</loc>
+        <loc>https://pintu.bingdou.com.cn/</loc>
         <lastmod>2025-07-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     
     <url>
-        <loc>https://img.ops-coffee.cn/zh/article/</loc>
+        <loc>https://pintu.bingdou.com.cn/zh/article/</loc>
         <lastmod>2025-07-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://img.ops-coffee.cn/zh/article/article-1.html</loc>
+        <loc>https://pintu.bingdou.com.cn/zh/article/article-1.html</loc>
         <lastmod>2025-07-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://img.ops-coffee.cn/zh/article/article-2.html</loc>
+        <loc>https://pintu.bingdou.com.cn/zh/article/article-2.html</loc>
         <lastmod>2025-07-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://img.ops-coffee.cn/zh/article/article-3.html</loc>
+        <loc>https://pintu.bingdou.com.cn/zh/article/article-3.html</loc>
         <lastmod>2025-07-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://img.ops-coffee.cn/zh/article/article-4.html</loc>
+        <loc>https://pintu.bingdou.com.cn/zh/article/article-4.html</loc>
         <lastmod>2025-07-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://img.ops-coffee.cn/zh/article/article-5.html</loc>
+        <loc>https://pintu.bingdou.com.cn/zh/article/article-5.html</loc>
         <lastmod>2025-07-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://img.ops-coffee.cn/en/</loc>
+        <loc>https://pintu.bingdou.com.cn/en/</loc>
         <lastmod>2025-07-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://img.ops-coffee.cn/en/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://img.ops-coffee.cn/en/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="https://img.ops-coffee.cn/de/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://img.ops-coffee.cn/es/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://img.ops-coffee.cn/fr/"/>
-        <xhtml:link rel="alternate" hreflang="it" href="https://img.ops-coffee.cn/it/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="https://img.ops-coffee.cn/ja/"/>
-        <xhtml:link rel="alternate" hreflang="ko" href="https://img.ops-coffee.cn/ko/"/>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://img.ops-coffee.cn/pt/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://img.ops-coffee.cn/ru/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://img.ops-coffee.cn/zh/"/>
-        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://img.ops-coffee.cn/tw/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://pintu.bingdou.com.cn/en/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pintu.bingdou.com.cn/en/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://pintu.bingdou.com.cn/de/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://pintu.bingdou.com.cn/es/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://pintu.bingdou.com.cn/fr/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pintu.bingdou.com.cn/it/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://pintu.bingdou.com.cn/ja/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://pintu.bingdou.com.cn/ko/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://pintu.bingdou.com.cn/pt/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://pintu.bingdou.com.cn/ru/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pintu.bingdou.com.cn/zh/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://pintu.bingdou.com.cn/tw/"/>
     </url>
     <url>
-        <loc>https://img.ops-coffee.cn/en/app/</loc>
+        <loc>https://pintu.bingdou.com.cn/en/app/</loc>
         <lastmod>2025-07-04</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://img.ops-coffee.cn/en/app/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://img.ops-coffee.cn/en/app/"/>
-        <xhtml:link rel="alternate" hreflang="de" href="https://img.ops-coffee.cn/de/app/"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://img.ops-coffee.cn/es/app/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://img.ops-coffee.cn/fr/app/"/>
-        <xhtml:link rel="alternate" hreflang="it" href="https://img.ops-coffee.cn/it/app/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="https://img.ops-coffee.cn/ja/app/"/>
-        <xhtml:link rel="alternate" hreflang="ko" href="https://img.ops-coffee.cn/ko/app/"/>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://img.ops-coffee.cn/pt/app/"/>
-        <xhtml:link rel="alternate" hreflang="ru" href="https://img.ops-coffee.cn/ru/app/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://img.ops-coffee.cn/zh/app/"/>
-        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://img.ops-coffee.cn/tw/app/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://pintu.bingdou.com.cn/en/app/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pintu.bingdou.com.cn/en/app/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://pintu.bingdou.com.cn/de/app/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://pintu.bingdou.com.cn/es/app/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://pintu.bingdou.com.cn/fr/app/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://pintu.bingdou.com.cn/it/app/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://pintu.bingdou.com.cn/ja/app/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://pintu.bingdou.com.cn/ko/app/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://pintu.bingdou.com.cn/pt/app/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://pintu.bingdou.com.cn/ru/app/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pintu.bingdou.com.cn/zh/app/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://pintu.bingdou.com.cn/tw/app/"/>
     </url>
 </urlset>
